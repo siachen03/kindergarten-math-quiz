@@ -1,0 +1,2163 @@
+{
+  "voice": "Kokoro zf_xiaoxiao (sid 47)",
+  "source": "sherpa-onnx kokoro-multi-lang-v1_0",
+  "format": "m4a/aac",
+  "count": 359,
+  "hash": "fnv1a-charcode32",
+  "items": [
+    {
+      "hash": "fa6fbf4f",
+      "text": "1 和 6，选出正确符号。",
+      "spokenText": "比较数字一和六，选出正确符号。",
+      "file": "audio/fa6fbf4f.m4a"
+    },
+    {
+      "hash": "17e9ede8",
+      "text": "10 和 18，选出正确符号。",
+      "spokenText": "比较数字十和十八，选出正确符号。",
+      "file": "audio/17e9ede8.m4a"
+    },
+    {
+      "hash": "a1560b8c",
+      "text": "10 和 7，选出正确符号。",
+      "spokenText": "比较数字十和七，选出正确符号。",
+      "file": "audio/a1560b8c.m4a"
+    },
+    {
+      "hash": "f1c9ed5c",
+      "text": "10减3等于几？",
+      "spokenText": "10减3等于几？",
+      "file": "audio/f1c9ed5c.m4a"
+    },
+    {
+      "hash": "5f5b2c42",
+      "text": "10加8等于几？",
+      "spokenText": "10加8等于几？",
+      "file": "audio/5f5b2c42.m4a"
+    },
+    {
+      "hash": "ab99f345",
+      "text": "11 和 10，选出正确符号。",
+      "spokenText": "比较数字十一和十，选出正确符号。",
+      "file": "audio/ab99f345.m4a"
+    },
+    {
+      "hash": "87409431",
+      "text": "11加8等于几？",
+      "spokenText": "11加8等于几？",
+      "file": "audio/87409431.m4a"
+    },
+    {
+      "hash": "8ec5af19",
+      "text": "12 和 15，选出正确符号。",
+      "spokenText": "比较数字十二和十五，选出正确符号。",
+      "file": "audio/8ec5af19.m4a"
+    },
+    {
+      "hash": "cdaa9a84",
+      "text": "12减5等于几？",
+      "spokenText": "12减5等于几？",
+      "file": "audio/cdaa9a84.m4a"
+    },
+    {
+      "hash": "2801f8eb",
+      "text": "12加5等于几？",
+      "spokenText": "12加5等于几？",
+      "file": "audio/2801f8eb.m4a"
+    },
+    {
+      "hash": "57d48f2a",
+      "text": "13 和 17，选出正确符号。",
+      "spokenText": "比较数字十三和十七，选出正确符号。",
+      "file": "audio/57d48f2a.m4a"
+    },
+    {
+      "hash": "b09e9d4d",
+      "text": "13减7等于几？",
+      "spokenText": "13减7等于几？",
+      "file": "audio/b09e9d4d.m4a"
+    },
+    {
+      "hash": "74c344a8",
+      "text": "14 和 14，选出正确符号。",
+      "spokenText": "比较数字十四和十四，选出正确符号。",
+      "file": "audio/74c344a8.m4a"
+    },
+    {
+      "hash": "d36b5936",
+      "text": "14减5等于几？",
+      "spokenText": "14减5等于几？",
+      "file": "audio/d36b5936.m4a"
+    },
+    {
+      "hash": "c51c216f",
+      "text": "15 和 12，选出正确符号。",
+      "spokenText": "比较数字十五和十二，选出正确符号。",
+      "file": "audio/c51c216f.m4a"
+    },
+    {
+      "hash": "f87c9b74",
+      "text": "15减6等于几？",
+      "spokenText": "15减6等于几？",
+      "file": "audio/f87c9b74.m4a"
+    },
+    {
+      "hash": "06e8a511",
+      "text": "16 和 11，选出正确符号。",
+      "spokenText": "比较数字十六和十一，选出正确符号。",
+      "file": "audio/06e8a511.m4a"
+    },
+    {
+      "hash": "8043b840",
+      "text": "18 和 18，选出正确符号。",
+      "spokenText": "比较数字十八和十八，选出正确符号。",
+      "file": "audio/8043b840.m4a"
+    },
+    {
+      "hash": "d073c81a",
+      "text": "18 和 30，选出正确符号。",
+      "spokenText": "比较数字十八和三十，选出正确符号。",
+      "file": "audio/d073c81a.m4a"
+    },
+    {
+      "hash": "550d35f6",
+      "text": "18减9等于几？",
+      "spokenText": "18减9等于几？",
+      "file": "audio/550d35f6.m4a"
+    },
+    {
+      "hash": "b9f0365a",
+      "text": "19 和 20，选出正确符号。",
+      "spokenText": "比较数字十九和二十，选出正确符号。",
+      "file": "audio/b9f0365a.m4a"
+    },
+    {
+      "hash": "186093f0",
+      "text": "19 和 22，选出正确符号。",
+      "spokenText": "比较数字十九和二十二，选出正确符号。",
+      "file": "audio/186093f0.m4a"
+    },
+    {
+      "hash": "2adcf4d6",
+      "text": "1加4等于几？",
+      "spokenText": "1加4等于几？",
+      "file": "audio/2adcf4d6.m4a"
+    },
+    {
+      "hash": "990e9242",
+      "text": "2 和 2，选出正确符号。",
+      "spokenText": "比较数字二和二，选出正确符号。",
+      "file": "audio/990e9242.m4a"
+    },
+    {
+      "hash": "d20a66da",
+      "text": "20 和 19，选出正确符号。",
+      "spokenText": "比较数字二十和十九，选出正确符号。",
+      "file": "audio/d20a66da.m4a"
+    },
+    {
+      "hash": "3466d2e3",
+      "text": "21 和 24，选出正确符号。",
+      "spokenText": "比较数字二十一和二十四，选出正确符号。",
+      "file": "audio/3466d2e3.m4a"
+    },
+    {
+      "hash": "4b6c6764",
+      "text": "23 和 27，选出正确符号。",
+      "spokenText": "比较数字二十三和二十七，选出正确符号。",
+      "file": "audio/4b6c6764.m4a"
+    },
+    {
+      "hash": "cda3b53e",
+      "text": "24 和 20，选出正确符号。",
+      "spokenText": "比较数字二十四和二十，选出正确符号。",
+      "file": "audio/cda3b53e.m4a"
+    },
+    {
+      "hash": "ad233bb4",
+      "text": "25 和 25，选出正确符号。",
+      "spokenText": "比较数字二十五和二十五，选出正确符号。",
+      "file": "audio/ad233bb4.m4a"
+    },
+    {
+      "hash": "b6c7221a",
+      "text": "26 和 26，选出正确符号。",
+      "spokenText": "比较数字二十六和二十六，选出正确符号。",
+      "file": "audio/b6c7221a.m4a"
+    },
+    {
+      "hash": "a495889b",
+      "text": "27 和 26，选出正确符号。",
+      "spokenText": "比较数字二十七和二十六，选出正确符号。",
+      "file": "audio/a495889b.m4a"
+    },
+    {
+      "hash": "af226d7c",
+      "text": "29 和 21，选出正确符号。",
+      "spokenText": "比较数字二十九和二十一，选出正确符号。",
+      "file": "audio/af226d7c.m4a"
+    },
+    {
+      "hash": "465326a0",
+      "text": "2加1等于几？",
+      "spokenText": "2加1等于几？",
+      "file": "audio/465326a0.m4a"
+    },
+    {
+      "hash": "9fa83e61",
+      "text": "2加2等于几？",
+      "spokenText": "2加2等于几？",
+      "file": "audio/9fa83e61.m4a"
+    },
+    {
+      "hash": "d1cae4d4",
+      "text": "3 和 5，选出正确符号。",
+      "spokenText": "比较数字三和五，选出正确符号。",
+      "file": "audio/d1cae4d4.m4a"
+    },
+    {
+      "hash": "70e29359",
+      "text": "30 和 28，选出正确符号。",
+      "spokenText": "比较数字三十和二十八，选出正确符号。",
+      "file": "audio/70e29359.m4a"
+    },
+    {
+      "hash": "e11d620f",
+      "text": "3加1等于几？",
+      "spokenText": "3加1等于几？",
+      "file": "audio/e11d620f.m4a"
+    },
+    {
+      "hash": "557416e2",
+      "text": "3加2等于几？",
+      "spokenText": "3加2等于几？",
+      "file": "audio/557416e2.m4a"
+    },
+    {
+      "hash": "918979e2",
+      "text": "4 和 4，选出正确符号。",
+      "spokenText": "比较数字四和四，选出正确符号。",
+      "file": "audio/918979e2.m4a"
+    },
+    {
+      "hash": "f8ec1e39",
+      "text": "4减1等于几？",
+      "spokenText": "4减1等于几？",
+      "file": "audio/f8ec1e39.m4a"
+    },
+    {
+      "hash": "241bfd44",
+      "text": "4加3等于几？",
+      "spokenText": "4加3等于几？",
+      "file": "audio/241bfd44.m4a"
+    },
+    {
+      "hash": "d0398e5a",
+      "text": "4加5等于几？",
+      "spokenText": "4加5等于几？",
+      "file": "audio/d0398e5a.m4a"
+    },
+    {
+      "hash": "7f516cf6",
+      "text": "5 和 9，选出正确符号。",
+      "spokenText": "比较数字五和九，选出正确符号。",
+      "file": "audio/7f516cf6.m4a"
+    },
+    {
+      "hash": "8a4c1df7",
+      "text": "5减2等于几？",
+      "spokenText": "5减2等于几？",
+      "file": "audio/8a4c1df7.m4a"
+    },
+    {
+      "hash": "8dd24ac5",
+      "text": "5减4等于几？",
+      "spokenText": "5减4等于几？",
+      "file": "audio/8dd24ac5.m4a"
+    },
+    {
+      "hash": "ec10fb92",
+      "text": "5加4等于几？",
+      "spokenText": "5加4等于几？",
+      "file": "audio/ec10fb92.m4a"
+    },
+    {
+      "hash": "9dcea4e9",
+      "text": "6 和 3，选出正确符号。",
+      "spokenText": "比较数字六和三，选出正确符号。",
+      "file": "audio/9dcea4e9.m4a"
+    },
+    {
+      "hash": "30d9e2cd",
+      "text": "6减3等于几？",
+      "spokenText": "6减3等于几？",
+      "file": "audio/30d9e2cd.m4a"
+    },
+    {
+      "hash": "66e61705",
+      "text": "6加2等于几？",
+      "spokenText": "6加2等于几？",
+      "file": "audio/66e61705.m4a"
+    },
+    {
+      "hash": "9e6247c0",
+      "text": "6加5等于几？",
+      "spokenText": "6加5等于几？",
+      "file": "audio/9e6247c0.m4a"
+    },
+    {
+      "hash": "a4d39be9",
+      "text": "7 和 2，选出正确符号。",
+      "spokenText": "比较数字七和二，选出正确符号。",
+      "file": "audio/a4d39be9.m4a"
+    },
+    {
+      "hash": "7c86739e",
+      "text": "7减3等于几？",
+      "spokenText": "7减3等于几？",
+      "file": "audio/7c86739e.m4a"
+    },
+    {
+      "hash": "f0554a78",
+      "text": "7加4等于几？",
+      "spokenText": "7加4等于几？",
+      "file": "audio/f0554a78.m4a"
+    },
+    {
+      "hash": "9f2f04fb",
+      "text": "7加9等于几？",
+      "spokenText": "7加9等于几？",
+      "file": "audio/9f2f04fb.m4a"
+    },
+    {
+      "hash": "4b6ea842",
+      "text": "8 和 8，选出正确符号。",
+      "spokenText": "比较数字八和八，选出正确符号。",
+      "file": "audio/4b6ea842.m4a"
+    },
+    {
+      "hash": "a56f3ba4",
+      "text": "8减2等于几？",
+      "spokenText": "8减2等于几？",
+      "file": "audio/a56f3ba4.m4a"
+    },
+    {
+      "hash": "56b2ca0c",
+      "text": "8加7等于几？",
+      "spokenText": "8加7等于几？",
+      "file": "audio/56b2ca0c.m4a"
+    },
+    {
+      "hash": "05070afd",
+      "text": "9 和 8，选出正确符号。",
+      "spokenText": "比较数字九和八，选出正确符号。",
+      "file": "audio/05070afd.m4a"
+    },
+    {
+      "hash": "6b3a8659",
+      "text": "9减4等于几？",
+      "spokenText": "9减4等于几？",
+      "file": "audio/6b3a8659.m4a"
+    },
+    {
+      "hash": "5b2bd5c4",
+      "text": "9加6等于几？",
+      "spokenText": "9加6等于几？",
+      "file": "audio/5b2bd5c4.m4a"
+    },
+    {
+      "hash": "eb6d397f",
+      "text": "■ 和 ▬",
+      "spokenText": "正方形 和 长方形",
+      "file": "audio/eb6d397f.m4a"
+    },
+    {
+      "hash": "0b4ccf1c",
+      "text": "▲ 和 ●",
+      "spokenText": "三角形 和 圆形",
+      "file": "audio/0b4ccf1c.m4a"
+    },
+    {
+      "hash": "83a81bd2",
+      "text": "● 和 ■",
+      "spokenText": "圆形 和 正方形",
+      "file": "audio/83a81bd2.m4a"
+    },
+    {
+      "hash": "55406619",
+      "text": "★ 和 ●",
+      "spokenText": "星形 和 圆形",
+      "file": "audio/55406619.m4a"
+    },
+    {
+      "hash": "d105a1c6",
+      "text": "一样多",
+      "spokenText": "一样多",
+      "file": "audio/d105a1c6.m4a"
+    },
+    {
+      "hash": "759a0685",
+      "text": "一样长",
+      "spokenText": "一样长",
+      "file": "audio/759a0685.m4a"
+    },
+    {
+      "hash": "0e9e1d60",
+      "text": "一样高",
+      "spokenText": "一样高",
+      "file": "audio/0e9e1d60.m4a"
+    },
+    {
+      "hash": "e4296b60",
+      "text": "三角形",
+      "spokenText": "三角形",
+      "file": "audio/e4296b60.m4a"
+    },
+    {
+      "hash": "79b14a60",
+      "text": "三角形和星形一共有几个？",
+      "spokenText": "三角形和星形一共有几个？",
+      "file": "audio/79b14a60.m4a"
+    },
+    {
+      "hash": "812df4ba",
+      "text": "三角形有几个？",
+      "spokenText": "三角形有几个？",
+      "file": "audio/812df4ba.m4a"
+    },
+    {
+      "hash": "6aaa42c9",
+      "text": "三角形比圆形多几个？",
+      "spokenText": "三角形比圆形多几个？",
+      "file": "audio/6aaa42c9.m4a"
+    },
+    {
+      "hash": "9033e83d",
+      "text": "上一题。",
+      "spokenText": "上一题。",
+      "file": "audio/9033e83d.m4a"
+    },
+    {
+      "hash": "f63c27ad",
+      "text": "上面",
+      "spokenText": "上面",
+      "file": "audio/f63c27ad.m4a"
+    },
+    {
+      "hash": "11d0f312",
+      "text": "下一个是什么？",
+      "spokenText": "下一个是什么？",
+      "file": "audio/11d0f312.m4a"
+    },
+    {
+      "hash": "07f30430",
+      "text": "下一题。",
+      "spokenText": "下一题。",
+      "file": "audio/07f30430.m4a"
+    },
+    {
+      "hash": "cc3cccf8",
+      "text": "下面",
+      "spokenText": "下面",
+      "file": "audio/cc3cccf8.m4a"
+    },
+    {
+      "hash": "360e283c",
+      "text": "不知道",
+      "spokenText": "不知道",
+      "file": "audio/360e283c.m4a"
+    },
+    {
+      "hash": "1d6e51e0",
+      "text": "两个小狗中间",
+      "spokenText": "两个小狗中间",
+      "file": "audio/1d6e51e0.m4a"
+    },
+    {
+      "hash": "bba7f1e8",
+      "text": "两个星星中间",
+      "spokenText": "两个星星中间",
+      "file": "audio/bba7f1e8.m4a"
+    },
+    {
+      "hash": "5cb8fa24",
+      "text": "中间",
+      "spokenText": "中间",
+      "file": "audio/5cb8fa24.m4a"
+    },
+    {
+      "hash": "1e3485c6",
+      "text": "从大到小，正确的是？",
+      "spokenText": "从大到小，正确的是？",
+      "file": "audio/1e3485c6.m4a"
+    },
+    {
+      "hash": "bdf7a826",
+      "text": "从小到大，正确的是？",
+      "spokenText": "从小到大，正确的是？",
+      "file": "audio/bdf7a826.m4a"
+    },
+    {
+      "hash": "d957a7db",
+      "text": "停",
+      "spokenText": "停",
+      "file": "audio/d957a7db.m4a"
+    },
+    {
+      "hash": "03d0367e",
+      "text": "兔子在哪里？",
+      "spokenText": "兔子在哪里？",
+      "file": "audio/03d0367e.m4a"
+    },
+    {
+      "hash": "f39db188",
+      "text": "兔子在树的哪边？",
+      "spokenText": "兔子在树的哪边？",
+      "file": "audio/f39db188.m4a"
+    },
+    {
+      "hash": "84de5e81",
+      "text": "半圆",
+      "spokenText": "半圆",
+      "file": "audio/84de5e81.m4a"
+    },
+    {
+      "hash": "62d6667e",
+      "text": "右上角",
+      "spokenText": "右上角",
+      "file": "audio/62d6667e.m4a"
+    },
+    {
+      "hash": "a4f3cffb",
+      "text": "右下角",
+      "spokenText": "右下角",
+      "file": "audio/a4f3cffb.m4a"
+    },
+    {
+      "hash": "07a25661",
+      "text": "右边",
+      "spokenText": "右边",
+      "file": "audio/07a25661.m4a"
+    },
+    {
+      "hash": "fb696558",
+      "text": "哪一组更多？",
+      "spokenText": "哪一组更多？",
+      "file": "audio/fb696558.m4a"
+    },
+    {
+      "hash": "00a38337",
+      "text": "哪一组更少？",
+      "spokenText": "哪一组更少？",
+      "file": "audio/00a38337.m4a"
+    },
+    {
+      "hash": "dbc2ea88",
+      "text": "哪两个都是四边形？",
+      "spokenText": "哪两个都是四边形？",
+      "file": "audio/dbc2ea88.m4a"
+    },
+    {
+      "hash": "a3b1efa6",
+      "text": "哪个不一样？",
+      "spokenText": "哪个不一样？",
+      "file": "audio/a3b1efa6.m4a"
+    },
+    {
+      "hash": "4cd2be6d",
+      "text": "哪个不是三角形？",
+      "spokenText": "哪个不是三角形？",
+      "file": "audio/4cd2be6d.m4a"
+    },
+    {
+      "hash": "c7b02fe8",
+      "text": "哪个不是交通工具？",
+      "spokenText": "哪个不是交通工具？",
+      "file": "audio/c7b02fe8.m4a"
+    },
+    {
+      "hash": "4c1fb39f",
+      "text": "哪个不是动物？",
+      "spokenText": "哪个不是动物？",
+      "file": "audio/4c1fb39f.m4a"
+    },
+    {
+      "hash": "41acad7a",
+      "text": "哪个不是四边形？",
+      "spokenText": "哪个不是四边形？",
+      "file": "audio/41acad7a.m4a"
+    },
+    {
+      "hash": "c9db4a52",
+      "text": "哪个不是图形？",
+      "spokenText": "哪个不是图形？",
+      "file": "audio/c9db4a52.m4a"
+    },
+    {
+      "hash": "0973dbba",
+      "text": "哪个不是圆形？",
+      "spokenText": "哪个不是圆形？",
+      "file": "audio/0973dbba.m4a"
+    },
+    {
+      "hash": "613b9f95",
+      "text": "哪个不是数字？",
+      "spokenText": "哪个不是数字？",
+      "file": "audio/613b9f95.m4a"
+    },
+    {
+      "hash": "8da20974",
+      "text": "哪个不是植物？",
+      "spokenText": "哪个不是植物？",
+      "file": "audio/8da20974.m4a"
+    },
+    {
+      "hash": "44f725f6",
+      "text": "哪个不是水果？",
+      "spokenText": "哪个不是水果？",
+      "file": "audio/44f725f6.m4a"
+    },
+    {
+      "hash": "aaf38c0d",
+      "text": "哪个不是水里的动物？",
+      "spokenText": "哪个不是水里的动物？",
+      "file": "audio/aaf38c0d.m4a"
+    },
+    {
+      "hash": "a2280fcb",
+      "text": "哪个不是派对物品？",
+      "spokenText": "哪个不是派对物品？",
+      "file": "audio/a2280fcb.m4a"
+    },
+    {
+      "hash": "9f7a955a",
+      "text": "哪个不是衣物？",
+      "spokenText": "哪个不是衣物？",
+      "file": "audio/9f7a955a.m4a"
+    },
+    {
+      "hash": "88bc95ee",
+      "text": "哪个不是食物？",
+      "spokenText": "哪个不是食物？",
+      "file": "audio/88bc95ee.m4a"
+    },
+    {
+      "hash": "c59cc9a6",
+      "text": "哪个也是交通工具？",
+      "spokenText": "哪个也是交通工具？",
+      "file": "audio/c59cc9a6.m4a"
+    },
+    {
+      "hash": "1d34fb15",
+      "text": "哪个也是动物？",
+      "spokenText": "哪个也是动物？",
+      "file": "audio/1d34fb15.m4a"
+    },
+    {
+      "hash": "8d1829c0",
+      "text": "哪个也是图形？",
+      "spokenText": "哪个也是图形？",
+      "file": "audio/8d1829c0.m4a"
+    },
+    {
+      "hash": "c95ff71f",
+      "text": "哪个也是数字？",
+      "spokenText": "哪个也是数字？",
+      "file": "audio/c95ff71f.m4a"
+    },
+    {
+      "hash": "4f828a52",
+      "text": "哪个也是植物？",
+      "spokenText": "哪个也是植物？",
+      "file": "audio/4f828a52.m4a"
+    },
+    {
+      "hash": "f224b07c",
+      "text": "哪个也是水果？",
+      "spokenText": "哪个也是水果？",
+      "file": "audio/f224b07c.m4a"
+    },
+    {
+      "hash": "bdbae867",
+      "text": "哪个也是水里的动物？",
+      "spokenText": "哪个也是水里的动物？",
+      "file": "audio/bdbae867.m4a"
+    },
+    {
+      "hash": "f27c1d25",
+      "text": "哪个也是派对物品？",
+      "spokenText": "哪个也是派对物品？",
+      "file": "audio/f27c1d25.m4a"
+    },
+    {
+      "hash": "6a48396b",
+      "text": "哪个也是花？",
+      "spokenText": "哪个也是花？",
+      "file": "audio/6a48396b.m4a"
+    },
+    {
+      "hash": "d666077c",
+      "text": "哪个也是衣物？",
+      "spokenText": "哪个也是衣物？",
+      "file": "audio/d666077c.m4a"
+    },
+    {
+      "hash": "9b839368",
+      "text": "哪个也是食物？",
+      "spokenText": "哪个也是食物？",
+      "file": "audio/9b839368.m4a"
+    },
+    {
+      "hash": "94c9ca6b",
+      "text": "哪个和第1个形状相同？",
+      "spokenText": "哪个和第1个形状相同？",
+      "file": "audio/94c9ca6b.m4a"
+    },
+    {
+      "hash": "cfed335e",
+      "text": "哪个和第2个形状相同？",
+      "spokenText": "哪个和第2个形状相同？",
+      "file": "audio/cfed335e.m4a"
+    },
+    {
+      "hash": "84a876ee",
+      "text": "哪个图形有 3 条边？",
+      "spokenText": "哪个图形有 3 条边？",
+      "file": "audio/84a876ee.m4a"
+    },
+    {
+      "hash": "6e6925c7",
+      "text": "哪个图形有 4 条边？",
+      "spokenText": "哪个图形有 4 条边？",
+      "file": "audio/6e6925c7.m4a"
+    },
+    {
+      "hash": "edb541b4",
+      "text": "哪个图形没有角？",
+      "spokenText": "哪个图形没有角？",
+      "file": "audio/edb541b4.m4a"
+    },
+    {
+      "hash": "ea98cedc",
+      "text": "哪个图形角最多？",
+      "spokenText": "哪个图形角最多？",
+      "file": "audio/ea98cedc.m4a"
+    },
+    {
+      "hash": "cd53cd6e",
+      "text": "哪个是10个星星？",
+      "spokenText": "哪个是10个星星？",
+      "file": "audio/cd53cd6e.m4a"
+    },
+    {
+      "hash": "b2103f36",
+      "text": "哪个是10个梨？",
+      "spokenText": "哪个是10个梨？",
+      "file": "audio/b2103f36.m4a"
+    },
+    {
+      "hash": "baaeacff",
+      "text": "哪个是11个小花？",
+      "spokenText": "哪个是11个小花？",
+      "file": "audio/baaeacff.m4a"
+    },
+    {
+      "hash": "5d9df9e9",
+      "text": "哪个是12个橙子？",
+      "spokenText": "哪个是12个橙子？",
+      "file": "audio/5d9df9e9.m4a"
+    },
+    {
+      "hash": "8eb5b1ae",
+      "text": "哪个是12个火箭？",
+      "spokenText": "哪个是12个火箭？",
+      "file": "audio/8eb5b1ae.m4a"
+    },
+    {
+      "hash": "fc017f8c",
+      "text": "哪个是13个恐龙？",
+      "spokenText": "哪个是13个恐龙？",
+      "file": "audio/fc017f8c.m4a"
+    },
+    {
+      "hash": "9ae55ed7",
+      "text": "哪个是13个胡萝卜？",
+      "spokenText": "哪个是13个胡萝卜？",
+      "file": "audio/9ae55ed7.m4a"
+    },
+    {
+      "hash": "1f65b459",
+      "text": "哪个是14个篮球？",
+      "spokenText": "哪个是14个篮球？",
+      "file": "audio/1f65b459.m4a"
+    },
+    {
+      "hash": "8a1396e6",
+      "text": "哪个是14个蜜蜂？",
+      "spokenText": "哪个是14个蜜蜂？",
+      "file": "audio/8a1396e6.m4a"
+    },
+    {
+      "hash": "cb29d82d",
+      "text": "哪个是15个企鹅？",
+      "spokenText": "哪个是15个企鹅？",
+      "file": "audio/cb29d82d.m4a"
+    },
+    {
+      "hash": "72ac583b",
+      "text": "哪个是15个蛋糕？",
+      "spokenText": "哪个是15个蛋糕？",
+      "file": "audio/72ac583b.m4a"
+    },
+    {
+      "hash": "71aa35a7",
+      "text": "哪个是16个西瓜？",
+      "spokenText": "哪个是16个西瓜？",
+      "file": "audio/71aa35a7.m4a"
+    },
+    {
+      "hash": "f25bbecf",
+      "text": "哪个是17个足球？",
+      "spokenText": "哪个是17个足球？",
+      "file": "audio/f25bbecf.m4a"
+    },
+    {
+      "hash": "0cb624bc",
+      "text": "哪个是18个樱桃？",
+      "spokenText": "哪个是18个樱桃？",
+      "file": "audio/0cb624bc.m4a"
+    },
+    {
+      "hash": "6cd6afa0",
+      "text": "哪个是18个玩具熊？",
+      "spokenText": "哪个是18个玩具熊？",
+      "file": "audio/6cd6afa0.m4a"
+    },
+    {
+      "hash": "04837d6d",
+      "text": "哪个是19个糖果？",
+      "spokenText": "哪个是19个糖果？",
+      "file": "audio/04837d6d.m4a"
+    },
+    {
+      "hash": "84950c3c",
+      "text": "哪个是1个饼干？",
+      "spokenText": "哪个是1个饼干？",
+      "file": "audio/84950c3c.m4a"
+    },
+    {
+      "hash": "dd2f1477",
+      "text": "哪个是20个小鸡？",
+      "spokenText": "哪个是20个小鸡？",
+      "file": "audio/dd2f1477.m4a"
+    },
+    {
+      "hash": "6e85d800",
+      "text": "哪个是2个苹果？",
+      "spokenText": "哪个是2个苹果？",
+      "file": "audio/6e85d800.m4a"
+    },
+    {
+      "hash": "a5f3238e",
+      "text": "哪个是3个星星？",
+      "spokenText": "哪个是3个星星？",
+      "file": "audio/a5f3238e.m4a"
+    },
+    {
+      "hash": "811c9500",
+      "text": "哪个是4个小鱼？",
+      "spokenText": "哪个是4个小鱼？",
+      "file": "audio/811c9500.m4a"
+    },
+    {
+      "hash": "13fcde92",
+      "text": "哪个是5个小汽车？",
+      "spokenText": "哪个是5个小汽车？",
+      "file": "audio/13fcde92.m4a"
+    },
+    {
+      "hash": "ca97910f",
+      "text": "哪个是6个草莓？",
+      "spokenText": "哪个是6个草莓？",
+      "file": "audio/ca97910f.m4a"
+    },
+    {
+      "hash": "c20a52e9",
+      "text": "哪个是6个香蕉？",
+      "spokenText": "哪个是6个香蕉？",
+      "file": "audio/c20a52e9.m4a"
+    },
+    {
+      "hash": "bfb1e33d",
+      "text": "哪个是7个小兔？",
+      "spokenText": "哪个是7个小兔？",
+      "file": "audio/bfb1e33d.m4a"
+    },
+    {
+      "hash": "8fc83bad",
+      "text": "哪个是7个熊猫？",
+      "spokenText": "哪个是7个熊猫？",
+      "file": "audio/8fc83bad.m4a"
+    },
+    {
+      "hash": "f152a34e",
+      "text": "哪个是8个气球？",
+      "spokenText": "哪个是8个气球？",
+      "file": "audio/f152a34e.m4a"
+    },
+    {
+      "hash": "82a442a0",
+      "text": "哪个是8个瓢虫？",
+      "spokenText": "哪个是8个瓢虫？",
+      "file": "audio/82a442a0.m4a"
+    },
+    {
+      "hash": "45b68c8a",
+      "text": "哪个是9个小鸭？",
+      "spokenText": "哪个是9个小鸭？",
+      "file": "audio/45b68c8a.m4a"
+    },
+    {
+      "hash": "19e6dc78",
+      "text": "哪个是9个蝴蝶？",
+      "spokenText": "哪个是9个蝴蝶？",
+      "file": "audio/19e6dc78.m4a"
+    },
+    {
+      "hash": "e1c5cdfe",
+      "text": "哪个是三角形？",
+      "spokenText": "哪个是三角形？",
+      "file": "audio/e1c5cdfe.m4a"
+    },
+    {
+      "hash": "862fbe53",
+      "text": "哪个是半圆？",
+      "spokenText": "哪个是半圆？",
+      "file": "audio/862fbe53.m4a"
+    },
+    {
+      "hash": "c22ff963",
+      "text": "哪个是圆形？",
+      "spokenText": "哪个是圆形？",
+      "file": "audio/c22ff963.m4a"
+    },
+    {
+      "hash": "41dfd324",
+      "text": "哪个是星形？",
+      "spokenText": "哪个是星形？",
+      "file": "audio/41dfd324.m4a"
+    },
+    {
+      "hash": "04b712e5",
+      "text": "哪个是正方形？",
+      "spokenText": "哪个是正方形？",
+      "file": "audio/04b712e5.m4a"
+    },
+    {
+      "hash": "dc2fa1aa",
+      "text": "哪个是空心圆？",
+      "spokenText": "哪个是空心圆？",
+      "file": "audio/dc2fa1aa.m4a"
+    },
+    {
+      "hash": "a6c7607f",
+      "text": "哪个是空心方形？",
+      "spokenText": "哪个是空心方形？",
+      "file": "audio/a6c7607f.m4a"
+    },
+    {
+      "hash": "dad4b486",
+      "text": "哪个是菱形？",
+      "spokenText": "哪个是菱形？",
+      "file": "audio/dad4b486.m4a"
+    },
+    {
+      "hash": "977e5ec1",
+      "text": "哪个是长方形？",
+      "spokenText": "哪个是长方形？",
+      "file": "audio/977e5ec1.m4a"
+    },
+    {
+      "hash": "34164778",
+      "text": "哪条更短？",
+      "spokenText": "哪条更短？",
+      "file": "audio/34164778.m4a"
+    },
+    {
+      "hash": "22c7c9d6",
+      "text": "哪条更长？",
+      "spokenText": "哪条更长？",
+      "file": "audio/22c7c9d6.m4a"
+    },
+    {
+      "hash": "2d4ca063",
+      "text": "圆圈",
+      "spokenText": "圆圈",
+      "file": "audio/2d4ca063.m4a"
+    },
+    {
+      "hash": "8fd5488b",
+      "text": "圆圈上面",
+      "spokenText": "圆圈上面",
+      "file": "audio/8fd5488b.m4a"
+    },
+    {
+      "hash": "add9852e",
+      "text": "圆圈下面",
+      "spokenText": "圆圈下面",
+      "file": "audio/add9852e.m4a"
+    },
+    {
+      "hash": "b17d2537",
+      "text": "圆圈外面",
+      "spokenText": "圆圈外面",
+      "file": "audio/b17d2537.m4a"
+    },
+    {
+      "hash": "e3f3a3cd",
+      "text": "圆圈里面",
+      "spokenText": "圆圈里面",
+      "file": "audio/e3f3a3cd.m4a"
+    },
+    {
+      "hash": "d758b101",
+      "text": "圆形",
+      "spokenText": "圆形",
+      "file": "audio/d758b101.m4a"
+    },
+    {
+      "hash": "704fe765",
+      "text": "圆形和方形一共有几个？",
+      "spokenText": "圆形和方形一共有几个？",
+      "file": "audio/704fe765.m4a"
+    },
+    {
+      "hash": "05fd097b",
+      "text": "圆形有几个？",
+      "spokenText": "圆形有几个？",
+      "file": "audio/05fd097b.m4a"
+    },
+    {
+      "hash": "7c0e24c0",
+      "text": "圆点",
+      "spokenText": "圆点",
+      "file": "audio/7c0e24c0.m4a"
+    },
+    {
+      "hash": "a767d311",
+      "text": "外面",
+      "spokenText": "外面",
+      "file": "audio/a767d311.m4a"
+    },
+    {
+      "hash": "7059287d",
+      "text": "大于号",
+      "spokenText": "大于号",
+      "file": "audio/7059287d.m4a"
+    },
+    {
+      "hash": "f09f3760",
+      "text": "实心图形有几个？",
+      "spokenText": "实心图形有几个？",
+      "file": "audio/f09f3760.m4a"
+    },
+    {
+      "hash": "f9d201e5",
+      "text": "小于号",
+      "spokenText": "小于号",
+      "file": "audio/f9d201e5.m4a"
+    },
+    {
+      "hash": "d5065e9e",
+      "text": "小兔",
+      "spokenText": "小兔",
+      "file": "audio/d5065e9e.m4a"
+    },
+    {
+      "hash": "e5b78c8d",
+      "text": "小汽车",
+      "spokenText": "小汽车",
+      "file": "audio/e5b78c8d.m4a"
+    },
+    {
+      "hash": "9fc1e252",
+      "text": "小汽车在哪里？",
+      "spokenText": "小汽车在哪里？",
+      "file": "audio/9fc1e252.m4a"
+    },
+    {
+      "hash": "9f38699c",
+      "text": "小熊",
+      "spokenText": "小熊",
+      "file": "audio/9f38699c.m4a"
+    },
+    {
+      "hash": "99e0ee4f",
+      "text": "小熊在哪里？",
+      "spokenText": "小熊在哪里？",
+      "file": "audio/99e0ee4f.m4a"
+    },
+    {
+      "hash": "5439868b",
+      "text": "小狗",
+      "spokenText": "小狗",
+      "file": "audio/5439868b.m4a"
+    },
+    {
+      "hash": "29948de3",
+      "text": "小狗上面",
+      "spokenText": "小狗上面",
+      "file": "audio/29948de3.m4a"
+    },
+    {
+      "hash": "e00f3800",
+      "text": "小狗在哪里？",
+      "spokenText": "小狗在哪里？",
+      "file": "audio/e00f3800.m4a"
+    },
+    {
+      "hash": "003c284f",
+      "text": "小猫",
+      "spokenText": "小猫",
+      "file": "audio/003c284f.m4a"
+    },
+    {
+      "hash": "74e1ea54",
+      "text": "小猫在哪里？",
+      "spokenText": "小猫在哪里？",
+      "file": "audio/74e1ea54.m4a"
+    },
+    {
+      "hash": "283dfa47",
+      "text": "小球",
+      "spokenText": "小球",
+      "file": "audio/283dfa47.m4a"
+    },
+    {
+      "hash": "26d72a2c",
+      "text": "小球在哪里？",
+      "spokenText": "小球在哪里？",
+      "file": "audio/26d72a2c.m4a"
+    },
+    {
+      "hash": "7a85525d",
+      "text": "小花",
+      "spokenText": "小花",
+      "file": "audio/7a85525d.m4a"
+    },
+    {
+      "hash": "1b85818c",
+      "text": "小蜜蜂",
+      "spokenText": "小蜜蜂",
+      "file": "audio/1b85818c.m4a"
+    },
+    {
+      "hash": "76a2619f",
+      "text": "小蜜蜂在哪里？",
+      "spokenText": "小蜜蜂在哪里？",
+      "file": "audio/76a2619f.m4a"
+    },
+    {
+      "hash": "ad7c30a6",
+      "text": "小鱼",
+      "spokenText": "小鱼",
+      "file": "audio/ad7c30a6.m4a"
+    },
+    {
+      "hash": "c4c85201",
+      "text": "小鱼在哪里？",
+      "spokenText": "小鱼在哪里？",
+      "file": "audio/c4c85201.m4a"
+    },
+    {
+      "hash": "0c7fec33",
+      "text": "小鸟",
+      "spokenText": "小鸟",
+      "file": "audio/0c7fec33.m4a"
+    },
+    {
+      "hash": "3d1bcb5a",
+      "text": "小鸟在树的哪边？",
+      "spokenText": "小鸟在树的哪边？",
+      "file": "audio/3d1bcb5a.m4a"
+    },
+    {
+      "hash": "fe7fd629",
+      "text": "小鸭",
+      "spokenText": "小鸭",
+      "file": "audio/fe7fd629.m4a"
+    },
+    {
+      "hash": "fccf15be",
+      "text": "小鸭在哪里？",
+      "spokenText": "小鸭在哪里？",
+      "file": "audio/fccf15be.m4a"
+    },
+    {
+      "hash": "0da533b4",
+      "text": "少了哪个数字？",
+      "spokenText": "少了哪个数字？",
+      "file": "audio/0da533b4.m4a"
+    },
+    {
+      "hash": "daacdfe1",
+      "text": "左上角",
+      "spokenText": "左上角",
+      "file": "audio/daacdfe1.m4a"
+    },
+    {
+      "hash": "786f8be7",
+      "text": "左上角是什么？",
+      "spokenText": "左上角是什么？",
+      "file": "audio/786f8be7.m4a"
+    },
+    {
+      "hash": "90c1c9cc",
+      "text": "左下角",
+      "spokenText": "左下角",
+      "file": "audio/90c1c9cc.m4a"
+    },
+    {
+      "hash": "e26d63e0",
+      "text": "左边",
+      "spokenText": "左边",
+      "file": "audio/e26d63e0.m4a"
+    },
+    {
+      "hash": "1cc4d08b",
+      "text": "已选择一般难度。",
+      "spokenText": "已选择一般难度。",
+      "file": "audio/1cc4d08b.m4a"
+    },
+    {
+      "hash": "4f46660e",
+      "text": "已选择分类。",
+      "spokenText": "已选择分类。",
+      "file": "audio/4f46660e.m4a"
+    },
+    {
+      "hash": "f8796a29",
+      "text": "已选择加减法。",
+      "spokenText": "已选择加减法。",
+      "file": "audio/f8796a29.m4a"
+    },
+    {
+      "hash": "a7a6dc59",
+      "text": "已选择困难难度。",
+      "spokenText": "已选择困难难度。",
+      "file": "audio/a7a6dc59.m4a"
+    },
+    {
+      "hash": "3298fedb",
+      "text": "已选择图形。",
+      "spokenText": "已选择图形。",
+      "file": "audio/3298fedb.m4a"
+    },
+    {
+      "hash": "bbc9cf98",
+      "text": "已选择找不同。",
+      "spokenText": "已选择找不同。",
+      "file": "audio/bbc9cf98.m4a"
+    },
+    {
+      "hash": "91a70990",
+      "text": "已选择找数字。",
+      "spokenText": "已选择找数字。",
+      "file": "audio/91a70990.m4a"
+    },
+    {
+      "hash": "78c90066",
+      "text": "已选择排序。",
+      "spokenText": "已选择排序。",
+      "file": "audio/78c90066.m4a"
+    },
+    {
+      "hash": "58a17d3d",
+      "text": "已选择数一数。",
+      "spokenText": "已选择数一数。",
+      "file": "audio/58a17d3d.m4a"
+    },
+    {
+      "hash": "e94647cd",
+      "text": "已选择数字和数量配对。",
+      "spokenText": "已选择数字和数量配对。",
+      "file": "audio/e94647cd.m4a"
+    },
+    {
+      "hash": "be0f113a",
+      "text": "已选择比较大小。",
+      "spokenText": "已选择比较大小。",
+      "file": "audio/be0f113a.m4a"
+    },
+    {
+      "hash": "5e03c00c",
+      "text": "已选择空间位置。",
+      "spokenText": "已选择空间位置。",
+      "file": "audio/5e03c00c.m4a"
+    },
+    {
+      "hash": "542651b2",
+      "text": "已选择简单难度。",
+      "spokenText": "已选择简单难度。",
+      "file": "audio/542651b2.m4a"
+    },
+    {
+      "hash": "3cef0f39",
+      "text": "已选择补缺数字。",
+      "spokenText": "已选择补缺数字。",
+      "file": "audio/3cef0f39.m4a"
+    },
+    {
+      "hash": "930d40b8",
+      "text": "已选择规律题。",
+      "spokenText": "已选择规律题。",
+      "file": "audio/930d40b8.m4a"
+    },
+    {
+      "hash": "9830988e",
+      "text": "已选择谁更多。",
+      "spokenText": "已选择谁更多。",
+      "file": "audio/9830988e.m4a"
+    },
+    {
+      "hash": "cd8dc781",
+      "text": "已选择谁更少。",
+      "spokenText": "已选择谁更少。",
+      "file": "audio/cd8dc781.m4a"
+    },
+    {
+      "hash": "62c609d9",
+      "text": "已选择随机题型，一般难度。",
+      "spokenText": "已选择随机题型，一般难度。",
+      "file": "audio/62c609d9.m4a"
+    },
+    {
+      "hash": "b2cda22b",
+      "text": "已选择随机题型，困难难度。",
+      "spokenText": "已选择随机题型，困难难度。",
+      "file": "audio/b2cda22b.m4a"
+    },
+    {
+      "hash": "7fbca3e8",
+      "text": "已选择随机题型，简单难度。",
+      "spokenText": "已选择随机题型，简单难度。",
+      "file": "audio/7fbca3e8.m4a"
+    },
+    {
+      "hash": "1d93223d",
+      "text": "已选择高矮长短。",
+      "spokenText": "已选择高矮长短。",
+      "file": "audio/1d93223d.m4a"
+    },
+    {
+      "hash": "a5d757c6",
+      "text": "恭喜你，全部答对啦！",
+      "spokenText": "恭喜你，全部答对啦！",
+      "file": "audio/a5d757c6.m4a"
+    },
+    {
+      "hash": "3263b47a",
+      "text": "房子",
+      "spokenText": "房子",
+      "file": "audio/3263b47a.m4a"
+    },
+    {
+      "hash": "c7e359b6",
+      "text": "房子上面",
+      "spokenText": "房子上面",
+      "file": "audio/c7e359b6.m4a"
+    },
+    {
+      "hash": "a00bf1d5",
+      "text": "房子前面",
+      "spokenText": "房子前面",
+      "file": "audio/a00bf1d5.m4a"
+    },
+    {
+      "hash": "9f7f62da",
+      "text": "房子后面",
+      "spokenText": "房子后面",
+      "file": "audio/9f7f62da.m4a"
+    },
+    {
+      "hash": "98bb5ea0",
+      "text": "房子里面",
+      "spokenText": "房子里面",
+      "file": "audio/98bb5ea0.m4a"
+    },
+    {
+      "hash": "96c44ea5",
+      "text": "找出数字10。",
+      "spokenText": "找出数字10。",
+      "file": "audio/96c44ea5.m4a"
+    },
+    {
+      "hash": "6cc1cdf0",
+      "text": "找出数字11。",
+      "spokenText": "找出数字11。",
+      "file": "audio/6cc1cdf0.m4a"
+    },
+    {
+      "hash": "46283387",
+      "text": "找出数字12。",
+      "spokenText": "找出数字12。",
+      "file": "audio/46283387.m4a"
+    },
+    {
+      "hash": "2425bf6a",
+      "text": "找出数字13。",
+      "spokenText": "找出数字13。",
+      "file": "audio/2425bf6a.m4a"
+    },
+    {
+      "hash": "fe234501",
+      "text": "找出数字14。",
+      "spokenText": "找出数字14。",
+      "file": "audio/fe234501.m4a"
+    },
+    {
+      "hash": "d420c44c",
+      "text": "找出数字15。",
+      "spokenText": "找出数字15。",
+      "file": "audio/d420c44c.m4a"
+    },
+    {
+      "hash": "ae1e49e3",
+      "text": "找出数字16。",
+      "spokenText": "找出数字16。",
+      "file": "audio/ae1e49e3.m4a"
+    },
+    {
+      "hash": "8c1bd5c6",
+      "text": "找出数字17。",
+      "spokenText": "找出数字17。",
+      "file": "audio/8c1bd5c6.m4a"
+    },
+    {
+      "hash": "c6d821ed",
+      "text": "找出数字18。",
+      "spokenText": "找出数字18。",
+      "file": "audio/c6d821ed.m4a"
+    },
+    {
+      "hash": "9cd5a138",
+      "text": "找出数字19。",
+      "spokenText": "找出数字19。",
+      "file": "audio/9cd5a138.m4a"
+    },
+    {
+      "hash": "70ff958f",
+      "text": "找出数字1。",
+      "spokenText": "找出数字1。",
+      "file": "audio/70ff958f.m4a"
+    },
+    {
+      "hash": "115bae84",
+      "text": "找出数字20。",
+      "spokenText": "找出数字20。",
+      "file": "audio/115bae84.m4a"
+    },
+    {
+      "hash": "3b5e2f39",
+      "text": "找出数字21。",
+      "spokenText": "找出数字21。",
+      "file": "audio/3b5e2f39.m4a"
+    },
+    {
+      "hash": "c956bffe",
+      "text": "找出数字22。",
+      "spokenText": "找出数字22。",
+      "file": "audio/c956bffe.m4a"
+    },
+    {
+      "hash": "eb59341b",
+      "text": "找出数字23。",
+      "spokenText": "找出数字23。",
+      "file": "audio/eb59341b.m4a"
+    },
+    {
+      "hash": "a9333828",
+      "text": "找出数字24。",
+      "spokenText": "找出数字24。",
+      "file": "audio/a9333828.m4a"
+    },
+    {
+      "hash": "d335b8dd",
+      "text": "找出数字25。",
+      "spokenText": "找出数字25。",
+      "file": "audio/d335b8dd.m4a"
+    },
+    {
+      "hash": "6160a9a2",
+      "text": "找出数字26。",
+      "spokenText": "找出数字26。",
+      "file": "audio/6160a9a2.m4a"
+    },
+    {
+      "hash": "83631dbf",
+      "text": "找出数字27。",
+      "spokenText": "找出数字27。",
+      "file": "audio/83631dbf.m4a"
+    },
+    {
+      "hash": "e0b0bb3c",
+      "text": "找出数字28。",
+      "spokenText": "找出数字28。",
+      "file": "audio/e0b0bb3c.m4a"
+    },
+    {
+      "hash": "0ab33bf1",
+      "text": "找出数字29。",
+      "spokenText": "找出数字29。",
+      "file": "audio/0ab33bf1.m4a"
+    },
+    {
+      "hash": "97020ff8",
+      "text": "找出数字2。",
+      "spokenText": "找出数字2。",
+      "file": "audio/97020ff8.m4a"
+    },
+    {
+      "hash": "8fc0b4af",
+      "text": "找出数字30。",
+      "spokenText": "找出数字30。",
+      "file": "audio/8fc0b4af.m4a"
+    },
+    {
+      "hash": "c10490ad",
+      "text": "找出数字3。",
+      "spokenText": "找出数字3。",
+      "file": "audio/c10490ad.m4a"
+    },
+    {
+      "hash": "b6f337ce",
+      "text": "找出数字4。",
+      "spokenText": "找出数字4。",
+      "file": "audio/b6f337ce.m4a"
+    },
+    {
+      "hash": "d8f5abeb",
+      "text": "找出数字5。",
+      "spokenText": "找出数字5。",
+      "file": "audio/d8f5abeb.m4a"
+    },
+    {
+      "hash": "fef82654",
+      "text": "找出数字6。",
+      "spokenText": "找出数字6。",
+      "file": "audio/fef82654.m4a"
+    },
+    {
+      "hash": "28faa709",
+      "text": "找出数字7。",
+      "spokenText": "找出数字7。",
+      "file": "audio/28faa709.m4a"
+    },
+    {
+      "hash": "1f1bae2a",
+      "text": "找出数字8。",
+      "spokenText": "找出数字8。",
+      "file": "audio/1f1bae2a.m4a"
+    },
+    {
+      "hash": "411e2247",
+      "text": "找出数字9。",
+      "spokenText": "找出数字9。",
+      "file": "audio/411e2247.m4a"
+    },
+    {
+      "hash": "48a57998",
+      "text": "拍",
+      "spokenText": "拍",
+      "file": "audio/48a57998.m4a"
+    },
+    {
+      "hash": "4d54fa8d",
+      "text": "数一数，有几个企鹅？",
+      "spokenText": "数一数，有几个企鹅？",
+      "file": "audio/4d54fa8d.m4a"
+    },
+    {
+      "hash": "b40ce876",
+      "text": "数一数，有几个小兔？",
+      "spokenText": "数一数，有几个小兔？",
+      "file": "audio/b40ce876.m4a"
+    },
+    {
+      "hash": "6c153529",
+      "text": "数一数，有几个小汽车？",
+      "spokenText": "数一数，有几个小汽车？",
+      "file": "audio/6c153529.m4a"
+    },
+    {
+      "hash": "3e9d4263",
+      "text": "数一数，有几个小花？",
+      "spokenText": "数一数，有几个小花？",
+      "file": "audio/3e9d4263.m4a"
+    },
+    {
+      "hash": "f64b9dde",
+      "text": "数一数，有几个小鱼？",
+      "spokenText": "数一数，有几个小鱼？",
+      "file": "audio/f64b9dde.m4a"
+    },
+    {
+      "hash": "7b86d3f3",
+      "text": "数一数，有几个小鸡？",
+      "spokenText": "数一数，有几个小鸡？",
+      "file": "audio/7b86d3f3.m4a"
+    },
+    {
+      "hash": "fb931a17",
+      "text": "数一数，有几个小鸭？",
+      "spokenText": "数一数，有几个小鸭？",
+      "file": "audio/fb931a17.m4a"
+    },
+    {
+      "hash": "a2b8071a",
+      "text": "数一数，有几个恐龙？",
+      "spokenText": "数一数，有几个恐龙？",
+      "file": "audio/a2b8071a.m4a"
+    },
+    {
+      "hash": "25d15f69",
+      "text": "数一数，有几个星星？",
+      "spokenText": "数一数，有几个星星？",
+      "file": "audio/25d15f69.m4a"
+    },
+    {
+      "hash": "891dc22f",
+      "text": "数一数，有几个梨？",
+      "spokenText": "数一数，有几个梨？",
+      "file": "audio/891dc22f.m4a"
+    },
+    {
+      "hash": "9b5f69c7",
+      "text": "数一数，有几个樱桃？",
+      "spokenText": "数一数，有几个樱桃？",
+      "file": "audio/9b5f69c7.m4a"
+    },
+    {
+      "hash": "d49b72e8",
+      "text": "数一数，有几个橙子？",
+      "spokenText": "数一数，有几个橙子？",
+      "file": "audio/d49b72e8.m4a"
+    },
+    {
+      "hash": "35052ff0",
+      "text": "数一数，有几个气球？",
+      "spokenText": "数一数，有几个气球？",
+      "file": "audio/35052ff0.m4a"
+    },
+    {
+      "hash": "af894503",
+      "text": "数一数，有几个火箭？",
+      "spokenText": "数一数，有几个火箭？",
+      "file": "audio/af894503.m4a"
+    },
+    {
+      "hash": "b672e466",
+      "text": "数一数，有几个熊猫？",
+      "spokenText": "数一数，有几个熊猫？",
+      "file": "audio/b672e466.m4a"
+    },
+    {
+      "hash": "0217bd79",
+      "text": "数一数，有几个玩具熊？",
+      "spokenText": "数一数，有几个玩具熊？",
+      "file": "audio/0217bd79.m4a"
+    },
+    {
+      "hash": "21b668ee",
+      "text": "数一数，有几个瓢虫？",
+      "spokenText": "数一数，有几个瓢虫？",
+      "file": "audio/21b668ee.m4a"
+    },
+    {
+      "hash": "8d61f25a",
+      "text": "数一数，有几个篮球？",
+      "spokenText": "数一数，有几个篮球？",
+      "file": "audio/8d61f25a.m4a"
+    },
+    {
+      "hash": "5813cc81",
+      "text": "数一数，有几个糖果？",
+      "spokenText": "数一数，有几个糖果？",
+      "file": "audio/5813cc81.m4a"
+    },
+    {
+      "hash": "a6f77b39",
+      "text": "数一数，有几个胡萝卜？",
+      "spokenText": "数一数，有几个胡萝卜？",
+      "file": "audio/a6f77b39.m4a"
+    },
+    {
+      "hash": "1041e9b4",
+      "text": "数一数，有几个苹果？",
+      "spokenText": "数一数，有几个苹果？",
+      "file": "audio/1041e9b4.m4a"
+    },
+    {
+      "hash": "c18c904f",
+      "text": "数一数，有几个草莓？",
+      "spokenText": "数一数，有几个草莓？",
+      "file": "audio/c18c904f.m4a"
+    },
+    {
+      "hash": "671e0d9b",
+      "text": "数一数，有几个蛋糕？",
+      "spokenText": "数一数，有几个蛋糕？",
+      "file": "audio/671e0d9b.m4a"
+    },
+    {
+      "hash": "43f53081",
+      "text": "数一数，有几个蜜蜂？",
+      "spokenText": "数一数，有几个蜜蜂？",
+      "file": "audio/43f53081.m4a"
+    },
+    {
+      "hash": "497cad4d",
+      "text": "数一数，有几个蝴蝶？",
+      "spokenText": "数一数，有几个蝴蝶？",
+      "file": "audio/497cad4d.m4a"
+    },
+    {
+      "hash": "cef1b50e",
+      "text": "数一数，有几个西瓜？",
+      "spokenText": "数一数，有几个西瓜？",
+      "file": "audio/cef1b50e.m4a"
+    },
+    {
+      "hash": "ae3ef081",
+      "text": "数一数，有几个足球？",
+      "spokenText": "数一数，有几个足球？",
+      "file": "audio/ae3ef081.m4a"
+    },
+    {
+      "hash": "d9e25d31",
+      "text": "数一数，有几个饼干？",
+      "spokenText": "数一数，有几个饼干？",
+      "file": "audio/d9e25d31.m4a"
+    },
+    {
+      "hash": "80db7129",
+      "text": "数一数，有几个香蕉？",
+      "spokenText": "数一数，有几个香蕉？",
+      "file": "audio/80db7129.m4a"
+    },
+    {
+      "hash": "9d36cbb9",
+      "text": "方形比星形少几个？",
+      "spokenText": "方形比星形少几个？",
+      "file": "audio/9d36cbb9.m4a"
+    },
+    {
+      "hash": "361ddca4",
+      "text": "星形",
+      "spokenText": "星形",
+      "file": "audio/361ddca4.m4a"
+    },
+    {
+      "hash": "d4d264b6",
+      "text": "星形有几个？",
+      "spokenText": "星形有几个？",
+      "file": "audio/d4d264b6.m4a"
+    },
+    {
+      "hash": "1b0f8723",
+      "text": "星星",
+      "spokenText": "星星",
+      "file": "audio/1b0f8723.m4a"
+    },
+    {
+      "hash": "a4fae2cb",
+      "text": "星星上面",
+      "spokenText": "星星上面",
+      "file": "audio/a4fae2cb.m4a"
+    },
+    {
+      "hash": "c2fd8c6e",
+      "text": "星星下面",
+      "spokenText": "星星下面",
+      "file": "audio/c2fd8c6e.m4a"
+    },
+    {
+      "hash": "6d0fb484",
+      "text": "星星下面是什么？",
+      "spokenText": "星星下面是什么？",
+      "file": "audio/6d0fb484.m4a"
+    },
+    {
+      "hash": "ebc62a58",
+      "text": "星星在哪里？",
+      "spokenText": "星星在哪里？",
+      "file": "audio/ebc62a58.m4a"
+    },
+    {
+      "hash": "2321f652",
+      "text": "星星左边",
+      "spokenText": "星星左边",
+      "file": "audio/2321f652.m4a"
+    },
+    {
+      "hash": "14b18c8d",
+      "text": "星星里面",
+      "spokenText": "星星里面",
+      "file": "audio/14b18c8d.m4a"
+    },
+    {
+      "hash": "89b2e15b",
+      "text": "月亮",
+      "spokenText": "月亮",
+      "file": "audio/89b2e15b.m4a"
+    },
+    {
+      "hash": "6394d333",
+      "text": "月亮上面",
+      "spokenText": "月亮上面",
+      "file": "audio/6394d333.m4a"
+    },
+    {
+      "hash": "81977cd6",
+      "text": "月亮下面",
+      "spokenText": "月亮下面",
+      "file": "audio/81977cd6.m4a"
+    },
+    {
+      "hash": "0b1559a0",
+      "text": "树上面",
+      "spokenText": "树上面",
+      "file": "audio/0b1559a0.m4a"
+    },
+    {
+      "hash": "35118e55",
+      "text": "树下面",
+      "spokenText": "树下面",
+      "file": "audio/35118e55.m4a"
+    },
+    {
+      "hash": "e02a28ec",
+      "text": "树右边",
+      "spokenText": "树右边",
+      "file": "audio/e02a28ec.m4a"
+    },
+    {
+      "hash": "43414135",
+      "text": "树左边",
+      "spokenText": "树左边",
+      "file": "audio/43414135.m4a"
+    },
+    {
+      "hash": "4442591e",
+      "text": "树的右边是什么？",
+      "spokenText": "树的右边是什么？",
+      "file": "audio/4442591e.m4a"
+    },
+    {
+      "hash": "7f91beb6",
+      "text": "树里面",
+      "spokenText": "树里面",
+      "file": "audio/7f91beb6.m4a"
+    },
+    {
+      "hash": "dd44ac29",
+      "text": "桌子上面",
+      "spokenText": "桌子上面",
+      "file": "audio/dd44ac29.m4a"
+    },
+    {
+      "hash": "f345b634",
+      "text": "桌子下面",
+      "spokenText": "桌子下面",
+      "file": "audio/f345b634.m4a"
+    },
+    {
+      "hash": "de635f69",
+      "text": "正方形",
+      "spokenText": "正方形",
+      "file": "audio/de635f69.m4a"
+    },
+    {
+      "hash": "0605c4d3",
+      "text": "正方形有几个？",
+      "spokenText": "正方形有几个？",
+      "file": "audio/0605c4d3.m4a"
+    },
+    {
+      "hash": "9f00a4d2",
+      "text": "爱心在哪里？",
+      "spokenText": "爱心在哪里？",
+      "file": "audio/9f00a4d2.m4a"
+    },
+    {
+      "hash": "2d6d68ff",
+      "text": "盒子",
+      "spokenText": "盒子",
+      "file": "audio/2d6d68ff.m4a"
+    },
+    {
+      "hash": "70f1ceb7",
+      "text": "盒子上面",
+      "spokenText": "盒子上面",
+      "file": "audio/70f1ceb7.m4a"
+    },
+    {
+      "hash": "209dd73d",
+      "text": "盒子上面是什么？",
+      "spokenText": "盒子上面是什么？",
+      "file": "audio/209dd73d.m4a"
+    },
+    {
+      "hash": "8ef2e55a",
+      "text": "盒子下面",
+      "spokenText": "盒子下面",
+      "file": "audio/8ef2e55a.m4a"
+    },
+    {
+      "hash": "82897c0b",
+      "text": "盒子外面",
+      "spokenText": "盒子外面",
+      "file": "audio/82897c0b.m4a"
+    },
+    {
+      "hash": "722797b1",
+      "text": "盒子里面",
+      "spokenText": "盒子里面",
+      "file": "audio/722797b1.m4a"
+    },
+    {
+      "hash": "a395692d",
+      "text": "看不出",
+      "spokenText": "看不出",
+      "file": "audio/a395692d.m4a"
+    },
+    {
+      "hash": "cba57b58",
+      "text": "看不出来",
+      "spokenText": "看不出来",
+      "file": "audio/cba57b58.m4a"
+    },
+    {
+      "hash": "297c7944",
+      "text": "空心图形有几个？",
+      "spokenText": "空心图形有几个？",
+      "file": "audio/297c7944.m4a"
+    },
+    {
+      "hash": "fd18c72c",
+      "text": "第1个",
+      "spokenText": "第1个",
+      "file": "audio/fd18c72c.m4a"
+    },
+    {
+      "hash": "971c3403",
+      "text": "第2个",
+      "spokenText": "第2个",
+      "file": "audio/971c3403.m4a"
+    },
+    {
+      "hash": "7519bfe6",
+      "text": "第3个",
+      "spokenText": "第3个",
+      "file": "audio/7519bfe6.m4a"
+    },
+    {
+      "hash": "7f3dfcc5",
+      "text": "第4个",
+      "spokenText": "第4个",
+      "file": "audio/7f3dfcc5.m4a"
+    },
+    {
+      "hash": "7e846e69",
+      "text": "等号",
+      "spokenText": "等号",
+      "file": "audio/7e846e69.m4a"
+    },
+    {
+      "hash": "35584fd0",
+      "text": "答对啦，真棒！",
+      "spokenText": "答对啦，真棒！",
+      "file": "audio/35584fd0.m4a"
+    },
+    {
+      "hash": "64ba87d1",
+      "text": "答错啦，再看看。",
+      "spokenText": "答错啦，再看看。",
+      "file": "audio/64ba87d1.m4a"
+    },
+    {
+      "hash": "797a91e8",
+      "text": "船上面",
+      "spokenText": "船上面",
+      "file": "audio/797a91e8.m4a"
+    },
+    {
+      "hash": "637987dd",
+      "text": "船下面",
+      "spokenText": "船下面",
+      "file": "audio/637987dd.m4a"
+    },
+    {
+      "hash": "06e5c934",
+      "text": "船右边",
+      "spokenText": "船右边",
+      "file": "audio/06e5c934.m4a"
+    },
+    {
+      "hash": "7a90f97d",
+      "text": "船左边",
+      "spokenText": "船左边",
+      "file": "audio/7a90f97d.m4a"
+    },
+    {
+      "hash": "526944c6",
+      "text": "船的右边是什么？",
+      "spokenText": "船的右边是什么？",
+      "file": "audio/526944c6.m4a"
+    },
+    {
+      "hash": "c81840c0",
+      "text": "花上面",
+      "spokenText": "花上面",
+      "file": "audio/c81840c0.m4a"
+    },
+    {
+      "hash": "f2179b75",
+      "text": "花下面",
+      "spokenText": "花下面",
+      "file": "audio/f2179b75.m4a"
+    },
+    {
+      "hash": "f6181138",
+      "text": "苹果",
+      "spokenText": "苹果",
+      "file": "audio/f6181138.m4a"
+    },
+    {
+      "hash": "ae9fac9b",
+      "text": "苹果在哪里？",
+      "spokenText": "苹果在哪里？",
+      "file": "audio/ae9fac9b.m4a"
+    },
+    {
+      "hash": "31c7e71a",
+      "text": "菱形",
+      "spokenText": "菱形",
+      "file": "audio/31c7e71a.m4a"
+    },
+    {
+      "hash": "232bcd9d",
+      "text": "谁在上面？",
+      "spokenText": "谁在上面？",
+      "file": "audio/232bcd9d.m4a"
+    },
+    {
+      "hash": "fab6f24e",
+      "text": "谁在中间？",
+      "spokenText": "谁在中间？",
+      "file": "audio/fab6f24e.m4a"
+    },
+    {
+      "hash": "4ad3d714",
+      "text": "谁在前面？",
+      "spokenText": "谁在前面？",
+      "file": "audio/4ad3d714.m4a"
+    },
+    {
+      "hash": "aa4d8079",
+      "text": "谁在右边？",
+      "spokenText": "谁在右边？",
+      "file": "audio/aa4d8079.m4a"
+    },
+    {
+      "hash": "8f5cda7b",
+      "text": "谁在里面？",
+      "spokenText": "谁在里面？",
+      "file": "audio/8f5cda7b.m4a"
+    },
+    {
+      "hash": "3a892597",
+      "text": "谁更矮？",
+      "spokenText": "谁更矮？",
+      "file": "audio/3a892597.m4a"
+    },
+    {
+      "hash": "23b3d01d",
+      "text": "谁更高？",
+      "spokenText": "谁更高？",
+      "file": "audio/23b3d01d.m4a"
+    },
+    {
+      "hash": "532d4f7c",
+      "text": "跑",
+      "spokenText": "跑",
+      "file": "audio/532d4f7c.m4a"
+    },
+    {
+      "hash": "752d8502",
+      "text": "跳",
+      "spokenText": "跳",
+      "file": "audio/752d8502.m4a"
+    },
+    {
+      "hash": "0a856c96",
+      "text": "还有题目没答对，继续加油！",
+      "spokenText": "还有题目没答对，继续加油！",
+      "file": "audio/0a856c96.m4a"
+    },
+    {
+      "hash": "a120ab49",
+      "text": "都不同",
+      "spokenText": "都不同",
+      "file": "audio/a120ab49.m4a"
+    },
+    {
+      "hash": "dd7171eb",
+      "text": "里面",
+      "spokenText": "里面",
+      "file": "audio/dd7171eb.m4a"
+    },
+    {
+      "hash": "8ef98195",
+      "text": "长方形",
+      "spokenText": "长方形",
+      "file": "audio/8ef98195.m4a"
+    },
+    {
+      "hash": "468ae427",
+      "text": "长方形有几个？",
+      "spokenText": "长方形有几个？",
+      "file": "audio/468ae427.m4a"
+    },
+    {
+      "hash": "c77b1227",
+      "text": "香蕉",
+      "spokenText": "香蕉",
+      "file": "audio/c77b1227.m4a"
+    },
+    {
+      "hash": "e09513ef",
+      "text": "香蕉上面",
+      "spokenText": "香蕉上面",
+      "file": "audio/e09513ef.m4a"
+    },
+    {
+      "hash": "be95c5d2",
+      "text": "香蕉下面",
+      "spokenText": "香蕉下面",
+      "file": "audio/be95c5d2.m4a"
+    },
+    {
+      "hash": "d2e204df",
+      "text": "香蕉右边",
+      "spokenText": "香蕉右边",
+      "file": "audio/d2e204df.m4a"
+    },
+    {
+      "hash": "713f5fde",
+      "text": "香蕉左边",
+      "spokenText": "香蕉左边",
+      "file": "audio/713f5fde.m4a"
+    }
+  ]
+}
