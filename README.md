@@ -2,7 +2,11 @@
 
 一个面向幼儿园小班/中班早期练习的数学选择题网页。页面可以直接部署为静态网站，适合在 iPad、平板浏览器或电脑浏览器中使用。
 
-![预览截图](docs/preview.png)
+<img width="2310" height="2418" alt="ScreenShot_2026-07-02_155641_133" src="https://github.com/user-attachments/assets/35116352-b12a-4d85-bbd5-8aed80280dc9" />
+<img width="2084" height="2310" alt="ScreenShot_2026-07-02_155728_010" src="https://github.com/user-attachments/assets/7ba3cb46-2e66-438c-a1b3-6ac0e1fdde0b" />
+<img width="2058" height="2366" alt="ScreenShot_2026-07-02_155748_344" src="https://github.com/user-attachments/assets/798821e8-0c86-40f5-9512-eedf6f4e53e6" />
+<img width="2064" height="2344" alt="ScreenShot_2026-07-02_155841_431" src="https://github.com/user-attachments/assets/4df5c87a-ce92-40dd-8bb8-95b38c2e4486" />
+
 
 ## 在线部署
 
