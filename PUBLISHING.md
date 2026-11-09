@@ -9,7 +9,7 @@ kindergarten-math-quiz
 推荐仓库地址:
 
 ```text
-https://github.com/dounaoo/kindergarten-math-quiz
+https://github.com/siachen03/kindergarten-math-quiz
 ```
 
 ## GitHub 发布步骤
@@ -33,7 +33,7 @@ https://github.com/dounaoo/kindergarten-math-quiz
 4. 创建仓库后，在本目录执行:
 
    ```bash
-   git remote set-url origin https://github.com/dounaoo/kindergarten-math-quiz.git
+   git remote set-url origin https://github.com/siachen03/kindergarten-math-quiz.git
    git push -u origin main
    ```
 
@@ -44,7 +44,7 @@ https://github.com/dounaoo/kindergarten-math-quiz
 1. 进入仓库 `Settings`。
 2. 打开 `Pages`。
 3. Source 选择 `Deploy from a branch`。
-4. Branch 选择 `main`，目录选择 `/root`。
+4. Branch 选择 `main`，目录选择 `/ (root)`。
 
 ## Netlify
 
