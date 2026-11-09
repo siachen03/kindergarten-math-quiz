@@ -4,7 +4,7 @@
 
 这是一个给幼儿园小班和中班早期孩子用的数学练习网页。孩子可以听中文题目播报，再点选答案。大按钮方便在平板上操作。
 
-[**在线做一题**](https://dounaoo.github.io/kindergarten-math-quiz/)
+[**在线做一题**](https://siachen03.github.io/kindergarten-math-quiz/)
 
 ![小班数学选择题的答题界面](preview.jpg)
 
